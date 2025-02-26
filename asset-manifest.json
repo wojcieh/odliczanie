@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/odliczanie/static/css/main.1480f4d1.css",
+    "main.js": "/odliczanie/static/js/main.83fed701.js",
+    "static/js/453.83cd23ae.chunk.js": "/odliczanie/static/js/453.83cd23ae.chunk.js",
+    "index.html": "/odliczanie/index.html",
+    "main.1480f4d1.css.map": "/odliczanie/static/css/main.1480f4d1.css.map",
+    "main.83fed701.js.map": "/odliczanie/static/js/main.83fed701.js.map",
+    "453.83cd23ae.chunk.js.map": "/odliczanie/static/js/453.83cd23ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1480f4d1.css",
+    "static/js/main.83fed701.js"
+  ]
+}
