@@ -33,7 +33,7 @@ const CountdownTimer = () => {
 
   return (
     <div className="countdown-container">
-      <h1 className="countdown-title">⏳ Odliczanie do egzaminu zawodowego</h1>
+      <h1 className="countdown-title">⏳ Odliczanie do egzaminu zawodowego INF.03 </h1><h3>(częśc praktyczna)</h3>
       <div className="countdown-grid">
         <div className="countdown-item">
           <p className="countdown-number">{timeLeft.days}</p>
